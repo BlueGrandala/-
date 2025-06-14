@@ -1,0 +1,31 @@
+ID 5017
+Type 1
+CalType 0
+Componets 4
+InvKind 2
+Filter Level 3
+Data Selection Sampling
+Sampling Number 100
+CutNum 0
+Initial Time(ms) 0.01
+Finish Time(ms) 10000
+Data Pairs 100
+Prob 0.5
+Value Limit 0
+SimKind 1
+SampleBeg 0.1
+SampleEnd 1000
+FZSampling Number 500
+SNR 100
+Invertion Mode 1
+St1Time 
+St2Time 
+St3Time 
+St1bh 
+St2bh 
+St3bh 
+UserID 2
+Inversion Method Sirt
+Number of Iterations 10000
+Range 100
+PeaksParity ALL

@@ -1,0 +1,27 @@
+SeqName CPMG
+sf(MHz) 21
+o1(Hz) 633789
+ID 17108
+UserID 2
+STID 0
+SeqID 3
+SampleTime 2025/4/24 15:12:49
+Note Q-CPMG
+P1(us) 19
+P2(us) 38
+TD 22080
+SW(KHz) 100
+TW(ms) 2000
+RFD(ms) 0.005
+RG1(db) 10
+DRG1 3
+NS 4
+TE(ms) 2.2
+NECH 100
+RFA1(%) 100
+DL1(ms) 1.081
+DR 1
+PRG 1
+PhaseCount 1
+PeakOffset(ms) 0
+D3V0 (us) 319

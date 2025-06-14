@@ -1,0 +1,2 @@
+Acquisition Date&time              O1(Hz)      P1(us)       P2(us)       PeakMax(a.u.)        Phase       zk0      zk1      wd0       wd1       wd2        wd3       wd4        wd5
+2025/4/24 15:32:46               633789       19          38            -2865.921                0.271         0                           0                                    
